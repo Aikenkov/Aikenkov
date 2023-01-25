@@ -24,7 +24,7 @@
 
 <img align="right" style="width:500px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=false&username=Aikenkov" height="152" alt="languages graph"  /> 
 
-<p align="left">✨ Creating bugs since 2022<br><br>📚 I'm currently learning <strong>Postgresql</strong><br><br>🎲 I'm passionate about games of all kind<br><br>:notes: One of the most random music tastes you'll see, probably</p>
+<p align="left">✨ Creating bugs since 2022<br><br>📚 I'm currently learning <strong>AWS</strong><br><br>🎲 I'm passionate about games of all kind<br><br>:notes: One of the most random music tastes you'll see, probably</p>
 
 ###
 
