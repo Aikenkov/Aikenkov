@@ -2,11 +2,11 @@
 
 <h3>Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" /></h3>
 
-<p align="left">My name is Fabio Rodrigues and I'm learning Web Development at Driven Education in Brazil.</p>
+<p align="left">Meu nome é Fabio Rodrigues e sou um Desenvolvedor Web Full Stack formado na Driven Education</p>
 
 ###
 
-<h4>Contact me:</h4>
+<h4>Contatos:</h4>
 
 <a href="fabio.rod.silva.spqr@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
@@ -18,17 +18,17 @@
   
 ###
 
-<h1 align="left">About me:</h1>
+<h1 align="left">Mais sobre mim:</h1>
 
 <img align="right" style="width:500px" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=Aikenkov" height="150" alt="stats graph"  />
 
 <img align="right" style="width:500px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=false&username=Aikenkov" height="152" alt="languages graph"  /> 
 
-<p align="left">✨ Creating bugs since 2022<br><br>📚 I'm currently learning <strong>AWS</strong><br><br>🎲 I'm passionate about games of all kind<br><br>:notes: One of the most random music tastes you'll see, probably</p>
+<p align="left">✨ Criando bugs desde 2022<br><br>📚 Atualmente estou aprendendo <strong>AWS</strong><br><br>🎲 Sou apaixonado por jogos de todos os tipos<br><br>:notes: Possuo um dos gostos músicais mais aleatórios que você vai ver... provavelmente</p>
 
 ###
 
-<h2 align="left">I code with:</h2>
+<h2 align="left">Eu codo com:</h2>
 
 ###
 
